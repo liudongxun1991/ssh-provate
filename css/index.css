@@ -1,5 +1,10 @@
-h1{
-    font-size: 25px;
-    margin: 0 auto;    
+/* html,body:hover {
+    background: skyblue;
+} */
 
+h1 {
+    font-size: 25px;
+    margin: 0 auto;
+    width: 320px;
+    height: 100px;
 }
