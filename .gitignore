@@ -1,2 +1,9 @@
-#护士自己
-.gitnore
+# 忽视自己
+.gitignore
+
+#忽视lib下的所有的js库
+lib/*.js
+
+lib/jquery
+
+css/reset.css
